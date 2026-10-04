@@ -30,6 +30,7 @@ ATS = where postings live (verify there, not on aggregators).
 | Nuro | Mountain View | Greenhouse | watch | |
 | Aurora | Pittsburgh / remote some roles | Greenhouse | watch | |
 | Helm.ai | Menlo Park / remote | Greenhouse (helmai) | watch | Added 2026-10-03 |
+| Torc Robotics | Remote US / Blacksburg VA | Greenhouse (torcrobotics) | watch | Added 2026-10-04: posts remote ML Engineer I roles (autonomous trucking); last one was 38 days old |
 
 ## Remote-friendly ML
 | Company | ATS / careers | Status | Notes |

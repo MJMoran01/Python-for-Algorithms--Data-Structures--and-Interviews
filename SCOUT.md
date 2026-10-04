@@ -12,10 +12,11 @@ The user reviews everything and acts themselves.
    still scan (steps 4-6), but every candidate goes under "Unverified", and the report's first line says
    "Blocked run: careers/ATS domains blocked by the environment network policy."
 4. Search sources:
-   - GitHub trackers (reachable even under the trusted policy): read with the GitHub MCP `get_file_contents`
-     or raw.githubusercontent.com:
-     `SimplifyJobs/New-Grad-Positions` (branch `dev`, README.md, "Data Science, AI & Machine Learning" section)
-     and `speedyapply/2026-AI-College-Jobs` (`NEW_GRAD_USA.md`). Filter for ML, CV, perception, robotics, autonomy.
+   - GitHub trackers (raw.githubusercontent.com is reachable even under the trusted policy; fetch with
+     curl/python in Bash, not the GitHub MCP tools):
+     run `python3 scripts/tracker_ml_roles.py 30` for the SimplifyJobs "Data Science, AI & Machine Learning"
+     section, and curl `https://raw.githubusercontent.com/speedyapply/2026-AI-College-Jobs/main/NEW_GRAD_USA.md`.
+     Filter for ML, CV, perception, robotics, autonomy roles in the allowed locations.
    - Careers pages / ATS for every `active` company in `targets.md` (`watch` companies on Mondays).
      ATS JSON endpoints are fastest when reachable:
      Greenhouse `https://boards-api.greenhouse.io/v1/boards/<slug>/jobs?content=true`,

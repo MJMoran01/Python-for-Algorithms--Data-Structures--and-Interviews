@@ -17,6 +17,7 @@ ATS = where postings live (verify there, not on aggregators).
 | Plus One Robotics | San Antonio / remote | careers page | active | Vision-guided picking |
 | Path Robotics | Columbus / remote | careers page | active | Added 2026-10-03: perception ML for welding robots |
 | Maven Robotics | remote | careers page | watch | Added 2026-10-03: robot perception ML |
+| Slip Robotics | Atlanta / remote | careers page | active | Added 2026-10-05: Atlanta truck-loading robots; current perception opening wants 5+ yrs and C++ (excluded), watch for junior ML roles |
 
 ## Autonomy and perception
 | Company | Locations of interest | ATS / careers | Status | Notes |

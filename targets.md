@@ -40,6 +40,7 @@ ATS = where postings live (verify there, not on aggregators).
 | Weights & Biases (CoreWeave) | CoreWeave careers | active | Acquired by CoreWeave |
 | Scale AI | Greenhouse | watch | Watch for wrapper/labeling-ops roles (exclude) |
 | Cohu (Xcerra) | cohu.com/careers | active | Added 2026-10-09: new AI group in semiconductor test, remote; LLM fine-tuning/RAG/eval research |
+| Artera | Lever (artera) | active | Added 2026-10-10: remote-first computational pathology; production CV on whole-slide images |
 
 ## Atlanta employers with real ML teams
 | Company | ATS / careers | Status | Notes |

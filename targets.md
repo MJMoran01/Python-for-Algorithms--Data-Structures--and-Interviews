@@ -60,3 +60,8 @@ ATS = where postings live (verify there, not on aggregators).
 | CFD Research | careers page | active | Intelligence & Sensing division hires junior CV/perception ML |
 | Radiance Technologies | careers page | active | Check clearance wording |
 | nou Systems | nou-systems.com/careers | active | Added 2026-10-08: employee-owned, Huntsville defense ML (DRL, XAI, imagery/time series); Secret "can obtain" OK |
+
+## Birmingham
+| Company | ATS / careers | Status | Notes |
+|---|---|---|---|
+| Tocaro Blue | careers page | watch | Added 2026-10-13: Birmingham ML company (object detection/tracking); current openings senior or forward-deployed |

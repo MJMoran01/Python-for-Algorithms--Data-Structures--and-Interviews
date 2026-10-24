@@ -25,7 +25,7 @@ ATS = where postings live (verify there, not on aggregators).
 | Applied Intuition | Sunnyvale / some remote | Ashby / careers page | active | Has new-grad research/ML roles; mostly onsite CA |
 | Skydio | San Mateo | Greenhouse | watch | |
 | Shield AI | San Diego / Dallas / DC | Lever (jobs.lever.co/shieldai) | active | Check for clearance requirements |
-| Anduril | Costa Mesa / Atlanta (Ga. facility) | Greenhouse | active | Check for Atlanta postings |
+| Anduril | Costa Mesa / Atlanta (Ga. facility) / Huntsville | Greenhouse | active | Check for Atlanta postings. 2026-10-24: Huntsville Space Ground ML team hiring, but current role needs active Secret + 5 yrs |
 | Overland AI | Seattle | careers page | watch | |
 | Zipline | South SF / Dallas | Greenhouse | watch | |
 | Nuro | Mountain View | Greenhouse | watch | |
